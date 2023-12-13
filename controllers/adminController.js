@@ -1,26 +1,19 @@
-// controllers/adminController.js
-
 const Listing = require('../models/listing');
 
-// Fetch all listings (admin view)
 exports.getAllListings = async (req, res) => {
   try {
-    const hostId = req.user.id; // Extracted from token in authMiddleware
-
-    // Find listings where hostId matches
+    const hostId = req.user.id;
     const listings = await Listing.find({ hostId });
-
     res.json(listings);
   } catch (error) {
     res.status(500).json({ error: "Server error" });
   }
 };
 
-// Add a new listing
 exports.addListing = async (req, res) => {
   try {
     const { title, category, description, price, location } = req.body;
-    const images = req.files.map(file => file.path); // Save paths of uploaded images
+    const images = req.files.map(file => file.path);
 
     const newListing = new Listing({
       title,
@@ -38,32 +31,27 @@ exports.addListing = async (req, res) => {
   }
 };
 
-// Edit a listing by ID
 exports.updateListing = async (req, res) => {
   try {
     const { title, category, description, price, location } = req.body;
     const images = req.files ? req.files.map(file => file.path) : [];
 
-    // Find the listing by ID
     const listing = await Listing.findById(req.params.id);
 
     if (!listing) {
       return res.status(404).json({ error: 'Listing not found' });
     }
 
-    // Update the listing fields
     listing.title = title || listing.title;
     listing.description = description || listing.description;
     listing.price = price || listing.price;
     listing.location = location || listing.location;
     listing.category = category || listing.category;
 
-    // If images are provided, update the images array
     if (images.length > 0) {
-      listing.images = images; // Replace the old images with new ones
+      listing.images = images;
     }
 
-    // Save the updated listing
     await listing.save();
 
     res.json({ message: 'Listing updated successfully', listing });
@@ -72,7 +60,6 @@ exports.updateListing = async (req, res) => {
   }
 };
 
-// Delete a listing by ID
 exports.deleteListing = async (req, res) => {
   try {
     await Listing.findByIdAndDelete(req.params.id);

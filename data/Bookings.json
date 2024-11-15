@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "listingId": 1,
+    "userName": "Alice",
+    "dates": [
+      "2024-11-01",
+      "2024-11-05"
+    ],
+    "status": "confirmed"
+  }
+]

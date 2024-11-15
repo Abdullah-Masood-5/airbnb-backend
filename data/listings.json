@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "title": "Hotel Room 1",
+    "description": "Comfortable single room with city view.",
+    "price": 100,
+    "image": "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg",
+    "location": "New York"
+  },
+  {
+    "id": 2,
+    "title": "Hotel Room 2",
+    "description": "Spacious suite with a great view.",
+    "price": 200,
+    "image": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg",
+    "location": "Los Angeles"
+  },
+  {
+    "id": 3,
+    "title": "Hotel Room 3",
+    "description": "Luxury room with king-size bed.",
+    "price": 150,
+    "image": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    "location": "Paris"
+  },
+  {
+    "id": 4,
+    "title": "Hotel Room 4",
+    "description": "Modern room with beautiful decor.",
+    "price": 250,
+    "image": "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg",
+    "location": "Tokyo"
+  },
+  {
+    "id": 5,
+    "title": "Hotel Room 5",
+    "description": "Elegant suite with balcony view.",
+    "price": 300,
+    "image": "https://images.pexels.com/photos/210604/pexels-photo-210604.jpeg",
+    "location": "Dubai"
+  },
+  {
+    "id": 6,
+    "title": "Hotel Room 6",
+    "description": "Stylish room with all amenities.",
+    "price": 350,
+    "image": "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg",
+    "location": "London"
+  },
+  {
+    "id": 7,
+    "title": "Hotel Room 7",
+    "description": "Cozy suite with modern furniture.",
+    "price": 400,
+    "image": "https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg",
+    "location": "Bangkok"
+  },
+  {
+    "id": 8,
+    "title": "Hotel Room 8",
+    "description": "Room with amazing sea view.",
+    "price": 450,
+    "image": "https://images.pexels.com/photos/26139/pexels-photo-26139.jpeg",
+    "location": "Sydney"
+  },
+  {
+    "id": 9,
+    "title": "Hotel Room 9",
+    "description": "Elegant single room with free WiFi.",
+    "price": 220,
+    "image": "https://images.pexels.com/photos/26140/pexels-photo-26140.jpeg",
+    "location": "San Francisco"
+  },
+  {
+    "id": 10,
+    "title": "Hotel Room 10",
+    "description": "Comfortable room with breakfast included.",
+    "price": 230,
+    "image": "https://images.pexels.com/photos/26141/pexels-photo-26141.jpeg",
+    "location": "Rome"
+  },
+  {
+    "id": 11,
+    "title": "Hotel Room 11",
+    "description": "Suite with private terrace.",
+    "price": 280,
+    "image": "https://images.pexels.com/photos/26142/pexels-photo-26142.jpeg",
+    "location": "Dubai"
+  },
+  {
+    "id": 12,
+    "title": "Hotel Room 12",
+    "description": "Modern single room with great lighting.",
+    "price": 190,
+    "image": "https://images.pexels.com/photos/26143/pexels-photo-26143.jpeg",
+    "location": "Singapore"
+  },
+  {
+    "id": 13,
+    "title": "Hotel Room 13",
+    "description": "Spacious room with work desk.",
+    "price": 290,
+    "image": "https://images.pexels.com/photos/26144/pexels-photo-26144.jpeg",
+    "location": "Milan"
+  },
+  {
+    "id": 14,
+    "title": "Hotel Room 14",
+    "description": "Luxury suite with a hot tub.",
+    "price": 400,
+    "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg",
+    "location": "Vienna"
+  },
+  {
+    "id": 15,
+    "title": "Hotel Room 15",
+    "description": "Room with a large bed and seating area.",
+    "price": 260,
+    "image": "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg",
+    "location": "Prague"
+  },
+  {
+    "id": 16,
+    "title": "Hotel Room 16",
+    "description": "Suite with a kitchenette and living area.",
+    "price": 420,
+    "image": "https://images.pexels.com/photos/271616/pexels-photo-271616.jpeg",
+    "location": "Budapest"
+  },
+  {
+    "id": 17,
+    "title": "Hotel Room 17",
+    "description": "Room with large windows and natural light.",
+    "price": 320,
+    "image": "https://images.pexels.com/photos/271617/pexels-photo-271617.jpeg",
+    "location": "Lisbon"
+  },
+  {
+    "id": 18,
+    "title": "Hotel Room 18",
+    "description": "Double room with modern furniture.",
+    "price": 240,
+    "image": "https://images.pexels.com/photos/26145/pexels-photo-26145.jpeg",
+    "location": "Copenhagen"
+  },
+  {
+    "id": 19,
+    "title": "Hotel Room 19",
+    "description": "Luxury suite with ocean view.",
+    "price": 500,
+    "image": "https://images.pexels.com/photos/271619/pexels-photo-271619.jpeg",
+    "location": "Dubai"
+  },
+  {
+    "id": 20,
+    "title": "Hotel Room 20",
+    "description": "Single room with modern amenities.",
+    "price": 170,
+    "image": "https://images.pexels.com/photos/26146/pexels-photo-26146.jpeg",
+    "location": "Singapore"
+  },
+  {
+    "id": 21,
+    "title": "Hotel Room 21",
+    "description": "Family suite with extra beds.",
+    "price": 380,
+    "image": "https://images.pexels.com/photos/271620",
+    "location": "Singapore"
+  },
+  {
+    "id": 22,
+    "title": "Hotel Room 22",
+    "description": "Room with en-suite bathroom and workspace.",
+    "price": 210,
+    "image": "https://images.pexels.com/photos/26147/pexels-photo-26147.jpeg"
+  },
+  {
+    "id": 23,
+    "title": "Hotel Room 23",
+    "description": "Suite with a balcony and seating area.",
+    "price": 320,
+    "image": "https://images.pexels.com/photos/271621/pexels-photo-271621.jpeg"
+  },
+  {
+    "id": 24,
+    "title": "Hotel Room 24",
+    "description": "Standard room with city view.",
+    "price": 240,
+    "image": "https://images.pexels.com/photos/26148/pexels-photo-26148.jpeg"
+  },
+  {
+    "id": 25,
+    "title": "Hotel Room 25",
+    "description": "Room with large TV and minibar.",
+    "price": 310,
+    "image": "https://images.pexels.com/photos/271622/pexels-photo-271622.jpeg"
+  },
+  {
+    "id": 26,
+    "title": "Hotel Room 26",
+    "description": "Comfortable room with workspace.",
+    "price": 190,
+    "image": "https://images.pexels.com/photos/26149/pexels-photo-26149.jpeg"
+  },
+  {
+    "id": 27,
+    "title": "Hotel Room 27",
+    "description": "Suite with dining area and kitchen.",
+    "price": 470,
+    "image": "https://images.pexels.com/photos/271623/pexels-photo-271623.jpeg"
+  },
+  {
+    "id": 28,
+    "title": "Hotel Room 28",
+    "description": "Room with stunning mountain view.",
+    "price": 350,
+    "image": "https://images.pexels.com/photos/26150/pexels-photo-26150.jpeg"
+  },
+  {
+    "id": 29,
+    "title": "Hotel Room 29",
+    "description": "Luxury suite with private pool.",
+    "price": 600,
+    "image": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg"
+  },
+  {
+    "id": 30,
+    "title": "Hotel Room 30",
+    "description": "Elegant room with modern design.",
+    "price": 280,
+    "image": "https://images.pexels.com/photos/26151/pexels-photo-26151.jpeg"
+  },
+  {
+    "id": 31,
+    "title": "Hotel Room 31",
+    "description": "Suite with panoramic city view.",
+    "price": 550,
+    "image": "https://images.pexels.com/photos/271625/pexels-photo-271625.jpeg"
+  },
+  {
+    "id": 32,
+    "title": "Hotel Room 32",
+    "description": "Compact single room with cozy decor.",
+    "price": 180,
+    "image": "https://images.pexels.com/photos/26152/pexels-photo-26152.jpeg"
+  },
+  {
+    "id": 33,
+    "title": "Hotel Room 33",
+    "description": "Double room with spacious bathroom.",
+    "price": 270,
+    "image": "https://images.pexels.com/photos/271626/pexels-photo-271626.jpeg"
+  }
+]

@@ -31,7 +31,6 @@ router.get("/", (req, res) => {
 // Get all listings
 router.get("/search", (req, res) => {
   const query = req.query.query || "";
-  console.log(query);
   const filteredListings = listings.filter(
     (listing) => listing.location && listing.location.includes(query)
   );

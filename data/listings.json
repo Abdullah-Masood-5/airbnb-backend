@@ -2,253 +2,397 @@
   {
     "id": 1,
     "title": "Hotel Room 1",
+    "type": "Home",
+    "guests": 4,
     "description": "Comfortable single room with city view.",
     "price": 100,
+    "rating": 4.8,
     "image": "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg",
-    "location": "New York"
+    "location": "New York",
+    "category": "Beachfront"
   },
   {
     "id": 2,
     "title": "Hotel Room 2",
+    "type": "Private Room",
+    "guests": 2,
     "description": "Spacious suite with a great view.",
     "price": 200,
+    "rating": 4.3,
     "image": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg",
-    "location": "Los Angeles"
+    "location": "Los Angeles",
+    "category": "Luxury"
   },
   {
     "id": 3,
     "title": "Hotel Room 3",
+    "type": "Apartment",
+    "guests": 2,
     "description": "Luxury room with king-size bed.",
     "price": 150,
+    "rating": 4.7,
     "image": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    "location": "Paris"
+    "location": "Paris",
+    "category": "Luxury"
   },
   {
     "id": 4,
     "title": "Hotel Room 4",
+    "type": "Villa",
+    "guests": 4,
     "description": "Modern room with beautiful decor.",
     "price": 250,
+    "rating": 4.5,
     "image": "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg",
-    "location": "Tokyo"
+    "location": "Tokyo",
+    "category": "Romantic"
   },
   {
     "id": 5,
     "title": "Hotel Room 5",
+    "type": "Tiny Home",
+    "guests": 2,
     "description": "Elegant suite with balcony view.",
     "price": 300,
+    "rating": 4.6,
     "image": "https://images.pexels.com/photos/210604/pexels-photo-210604.jpeg",
-    "location": "Dubai"
+    "location": "Dubai",
+    "category": "Luxury"
   },
   {
     "id": 6,
     "title": "Hotel Room 6",
+    "type": "Studio",
+    "guests": 1,
     "description": "Stylish room with all amenities.",
     "price": 350,
+    "rating": 4.2,
     "image": "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg",
-    "location": "London"
+    "location": "London",
+    "category": "Budget"
   },
   {
     "id": 7,
     "title": "Hotel Room 7",
+    "type": "Treehouse",
+    "guests": 2,
     "description": "Cozy suite with modern furniture.",
     "price": 400,
+    "rating": 4.9,
     "image": "https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg",
-    "location": "Bangkok"
+    "location": "Bangkok",
+    "category": "Unique"
   },
   {
     "id": 8,
     "title": "Hotel Room 8",
+    "type": "Penthouse",
+    "guests": 4,
     "description": "Room with amazing sea view.",
     "price": 450,
+    "rating": 4.7,
     "image": "https://images.pexels.com/photos/26139/pexels-photo-26139.jpeg",
-    "location": "Sydney"
+    "location": "Sydney",
+    "category": "Romantic"
   },
   {
     "id": 9,
     "title": "Hotel Room 9",
+    "type": "Condo",
+    "guests": 2,
     "description": "Elegant single room with free WiFi.",
     "price": 220,
+    "rating": 4.3,
     "image": "https://images.pexels.com/photos/26140/pexels-photo-26140.jpeg",
-    "location": "San Francisco"
+    "location": "San Francisco",
+    "category": "Family"
   },
   {
     "id": 10,
     "title": "Hotel Room 10",
+    "type": "Lodge",
+    "guests": 2,
     "description": "Comfortable room with breakfast included.",
     "price": 230,
+    "rating": 4.4,
     "image": "https://images.pexels.com/photos/26141/pexels-photo-26141.jpeg",
-    "location": "Rome"
+    "location": "Rome",
+    "category": "Adventure"
   },
   {
     "id": 11,
     "title": "Hotel Room 11",
+    "type": "House",
+    "guests": 4,
     "description": "Suite with private terrace.",
     "price": 280,
+    "rating": 4.8,
     "image": "https://images.pexels.com/photos/26142/pexels-photo-26142.jpeg",
-    "location": "Dubai"
+    "location": "Dubai",
+    "category": "Luxury"
   },
   {
     "id": 12,
     "title": "Hotel Room 12",
+    "type": "Loft",
+    "guests": 1,
     "description": "Modern single room with great lighting.",
     "price": 190,
+    "rating": 4.0,
     "image": "https://images.pexels.com/photos/26143/pexels-photo-26143.jpeg",
-    "location": "Singapore"
+    "location": "Singapore",
+    "category": "Budget"
   },
   {
     "id": 13,
     "title": "Hotel Room 13",
+    "type": "Cottage",
+    "guests": 3,
     "description": "Spacious room with work desk.",
     "price": 290,
+    "rating": 4.2,
     "image": "https://images.pexels.com/photos/26144/pexels-photo-26144.jpeg",
-    "location": "Milan"
+    "location": "Milan",
+    "category": "Business"
   },
   {
     "id": 14,
     "title": "Hotel Room 14",
+    "type": "Villa",
+    "guests": 2,
     "description": "Luxury suite with a hot tub.",
     "price": 400,
+    "rating": 4.6,
     "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg",
-    "location": "Vienna"
+    "location": "Vienna",
+    "category": "Luxury"
   },
   {
     "id": 15,
     "title": "Hotel Room 15",
+    "type": "Private Room",
+    "guests": 2,
     "description": "Room with a large bed and seating area.",
     "price": 260,
+    "rating": 4.4,
     "image": "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg",
-    "location": "Prague"
+    "location": "Prague",
+    "category": "Family"
   },
   {
     "id": 16,
     "title": "Hotel Room 16",
+    "type": "Cabin",
+    "guests": 4,
     "description": "Suite with a kitchenette and living area.",
     "price": 420,
+    "rating": 4.5,
     "image": "https://images.pexels.com/photos/271616/pexels-photo-271616.jpeg",
-    "location": "Budapest"
+    "location": "Budapest",
+    "category": "Relaxation"
   },
   {
     "id": 17,
     "title": "Hotel Room 17",
+    "type": "Treehouse",
+    "guests": 2,
     "description": "Room with large windows and natural light.",
     "price": 320,
+    "rating": 4.3,
     "image": "https://images.pexels.com/photos/271617/pexels-photo-271617.jpeg",
-    "location": "Lisbon"
+    "location": "Lisbon",
+    "category": "Adventure"
   },
   {
     "id": 18,
     "title": "Hotel Room 18",
+    "type": "Lodge",
+    "guests": 3,
     "description": "Double room with modern furniture.",
     "price": 240,
+    "rating": 4.1,
     "image": "https://images.pexels.com/photos/26145/pexels-photo-26145.jpeg",
-    "location": "Copenhagen"
+    "location": "Copenhagen",
+    "category": "Wellness"
   },
   {
     "id": 19,
     "title": "Hotel Room 19",
+    "type": "Apartment",
+    "guests": 2,
     "description": "Luxury suite with ocean view.",
     "price": 500,
+    "rating": 4.9,
     "image": "https://images.pexels.com/photos/271619/pexels-photo-271619.jpeg",
-    "location": "Dubai"
+    "location": "Dubai",
+    "category": "Beachfront"
   },
   {
     "id": 20,
     "title": "Hotel Room 20",
+    "type": "Condo",
+    "guests": 1,
     "description": "Single room with modern amenities.",
     "price": 170,
+    "rating": 4.0,
     "image": "https://images.pexels.com/photos/26146/pexels-photo-26146.jpeg",
-    "location": "Singapore"
+    "location": "Singapore",
+    "category": "Budget"
   },
   {
     "id": 21,
     "title": "Hotel Room 21",
+    "type": "Cottage",
+    "guests": 4,
     "description": "Family suite with extra beds.",
     "price": 380,
+    "rating": 4.7,
     "image": "https://images.pexels.com/photos/271620",
-    "location": "Singapore"
+    "location": "Singapore",
+    "category": "Family"
   },
   {
     "id": 22,
     "title": "Hotel Room 22",
+    "type": "House",
+    "guests": 2,
     "description": "Room with en-suite bathroom and workspace.",
     "price": 210,
-    "image": "https://images.pexels.com/photos/26147/pexels-photo-26147.jpeg"
+    "rating": 4.2,
+    "image": "https://images.pexels.com/photos/26147/pexels-photo-26147.jpeg",
+    "location": "Berlin",
+    "category": "Business"
   },
   {
     "id": 23,
     "title": "Hotel Room 23",
+    "type": "Loft",
+    "guests": 3,
     "description": "Suite with a balcony and seating area.",
     "price": 320,
-    "image": "https://images.pexels.com/photos/271621/pexels-photo-271621.jpeg"
+    "rating": 4.4,
+    "image": "https://images.pexels.com/photos/271621/pexels-photo-271621.jpeg",
+    "location": "Barcelona",
+    "category": "Luxury"
   },
   {
     "id": 24,
     "title": "Hotel Room 24",
+    "type": "Villa",
+    "guests": 4,
     "description": "Standard room with city view.",
     "price": 240,
-    "image": "https://images.pexels.com/photos/26148/pexels-photo-26148.jpeg"
+    "rating": 4.1,
+    "image": "https://images.pexels.com/photos/26148/pexels-photo-26148.jpeg",
+    "location": "Paris",
+    "category": "Family"
   },
   {
     "id": 25,
     "title": "Hotel Room 25",
+    "type": "Penthouse",
+    "guests": 4,
     "description": "Room with large TV and minibar.",
     "price": 310,
-    "image": "https://images.pexels.com/photos/271622/pexels-photo-271622.jpeg"
+    "rating": 4.3,
+    "image": "https://images.pexels.com/photos/271622/pexels-photo-271622.jpeg",
+    "location": "New York",
+    "category": "Trending"
   },
   {
     "id": 26,
     "title": "Hotel Room 26",
+    "type": "Treehouse",
+    "guests": 2,
     "description": "Comfortable room with workspace.",
     "price": 190,
-    "image": "https://images.pexels.com/photos/26149/pexels-photo-26149.jpeg"
+    "rating": 4.0,
+    "image": "https://images.pexels.com/photos/26149/pexels-photo-26149.jpeg",
+    "location": "Vienna",
+    "category": "Adventure"
   },
   {
     "id": 27,
     "title": "Hotel Room 27",
+    "type": "House",
+    "guests": 5,
     "description": "Suite with dining area and kitchen.",
     "price": 470,
-    "image": "https://images.pexels.com/photos/271623/pexels-photo-271623.jpeg"
+    "rating": 4.8,
+    "image": "https://images.pexels.com/photos/271623/pexels-photo-271623.jpeg",
+    "location": "Berlin",
+    "category": "Family"
   },
   {
     "id": 28,
     "title": "Hotel Room 28",
+    "type": "Loft",
+    "guests": 2,
     "description": "Room with stunning mountain view.",
     "price": 350,
-    "image": "https://images.pexels.com/photos/26150/pexels-photo-26150.jpeg"
+    "rating": 4.5,
+    "image": "https://images.pexels.com/photos/26150/pexels-photo-26150.jpeg",
+    "location": "Zurich",
+    "category": "Hiking"
   },
   {
     "id": 29,
     "title": "Hotel Room 29",
+    "type": "Villa",
+    "guests": 4,
     "description": "Luxury suite with private pool.",
     "price": 600,
-    "image": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg"
+    "rating": 5.0,
+    "image": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg",
+    "location": "Dubai",
+    "category": "Luxury"
   },
   {
     "id": 30,
     "title": "Hotel Room 30",
+    "type": "Condo",
+    "guests": 2,
     "description": "Elegant room with modern design.",
     "price": 280,
-    "image": "https://images.pexels.com/photos/26151/pexels-photo-26151.jpeg"
+    "rating": 4.3,
+    "image": "https://images.pexels.com/photos/26151/pexels-photo-26151.jpeg",
+    "location": "Madrid",
+    "category": "Relaxation"
   },
   {
     "id": 31,
     "title": "Hotel Room 31",
+    "type": "Lodge",
+    "guests": 4,
     "description": "Suite with panoramic city view.",
     "price": 550,
-    "image": "https://images.pexels.com/photos/271625/pexels-photo-271625.jpeg"
+    "rating": 4.9,
+    "image": "https://images.pexels.com/photos/271625/pexels-photo-271625.jpeg",
+    "location": "New York",
+    "category": "Business"
   },
   {
     "id": 32,
     "title": "Hotel Room 32",
+    "type": "Cottage",
+    "guests": 1,
     "description": "Compact single room with cozy decor.",
     "price": 180,
-    "image": "https://images.pexels.com/photos/26152/pexels-photo-26152.jpeg"
+    "rating": 4.0,
+    "image": "https://images.pexels.com/photos/26152/pexels-photo-26152.jpeg",
+    "location": "Vienna",
+    "category": "Budget"
   },
   {
     "id": 33,
     "title": "Hotel Room 33",
+    "type": "Treehouse",
+    "guests": 2,
     "description": "Double room with spacious bathroom.",
     "price": 270,
-    "image": "https://images.pexels.com/photos/271626/pexels-photo-271626.jpeg"
+    "rating": 4.4,
+    "image": "https://images.pexels.com/photos/271626/pexels-photo-271626.jpeg",
+    "location": "Barcelona",
+    "category": "Wildlife"
   }
 ]

@@ -3,6 +3,7 @@
 This project is a simple backend for an Airbnb-like application. It provides APIs to manage listings and bookings.
 
 ## Project Structure
+```plaintext
 .env
 .gitignore
 data/
@@ -12,6 +13,7 @@ package.json
 routes/
     listings.js
 server.js
+```
 
 
 ### Files and Directories

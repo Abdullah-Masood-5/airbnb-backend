@@ -1,19 +1,34 @@
-const express = require("express");
-const cors = require("cors");
-require("dotenv").config();
+const express = require('express');
+const dotenv = require('dotenv');
+const cors = require('cors');
+const connectDB = require('./mongoDb/db');
+const authRoutes = require('./routes/auth');
+const path = require('path');
+
+
+dotenv.config();
+connectDB();
+
 const app = express();
 app.use(cors());
-
-// Import the listings routes from the listings.js file
-const listingsRoutes = require("./routes/listings");
-const serverUrl = process.env.PORT;
-// Middleware to parse JSON data
 app.use(express.json());
 
-// Use the listings routes under the '/api/listings' path
-app.use("/api/listings", listingsRoutes);
+app.use('/images', express.static(path.join(__dirname, 'images')));
 
-// Start the server
-app.listen(serverUrl, () => {
-  console.log(`Server running at http://localhost:${serverUrl}`);
-});
+app.use('/api/auth', authRoutes);
+const profileRoutes = require('./routes/profile');
+app.use('/api/profile', profileRoutes);
+
+
+const adminRoutes = require('./routes/admin');
+app.use('/api/admin', adminRoutes);
+app.use('/api/', require('./routes/clientRoutes'));
+
+
+app.use('/api/bookings',  require('./routes/bookingRoutes'));
+
+app.use('/api/admin-bookings',  require('./routes/adminBookingRoutes'));
+
+
+const PORT = process.env.PORT || 5000;
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));

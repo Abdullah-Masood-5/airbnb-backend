@@ -1,11 +1,8 @@
 const express = require("express");
-const dotenv = require("dotenv");
 const cors = require("cors");
 const connectDB = require("./mongoDb/db");
 const authRoutes = require("./routes/auth");
 const path = require("path");
-
-dotenv.config();
 connectDB();
 
 const app = express();

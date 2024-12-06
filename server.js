@@ -20,6 +20,9 @@ const adminRoutes = require("./routes/admin");
 app.use("/api/admin", adminRoutes);
 
 app.use("/api/", require("./routes/clientRoutes"));
+app.use("/api/bookings", require("./routes/bookingRoutes"));
+
+app.use("/api/admin-bookings", require("./routes/adminBookingRoutes"));
 
 
 const PORT = process.env.PORT || 5000;

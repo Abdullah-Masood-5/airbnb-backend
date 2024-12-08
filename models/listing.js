@@ -7,6 +7,7 @@ const listingSchema = new mongoose.Schema({
   location: { type: String, default: "Unknown" },
   images: { type: [String], default: [] },
   hostId: { type: mongoose.Schema.Types.ObjectId, ref: "User", required: true },
+  category: { type: String, default: "Apartment" },
   createdAt: { type: Date, default: Date.now },
 });
 

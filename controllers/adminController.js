@@ -5,10 +5,14 @@ const Listing = require('../models/listing');
 // Fetch all listings (admin view)
 exports.getAllListings = async (req, res) => {
   try {
-    const listings = await Listing.find();
+    const hostId = req.user.id; // Extracted from token in authMiddleware
+
+    // Find listings where hostId matches
+    const listings = await Listing.find({ hostId });
+
     res.json(listings);
   } catch (error) {
-    res.status(500).json({ error: 'Server error' });
+    res.status(500).json({ error: "Server error" });
   }
 };
 

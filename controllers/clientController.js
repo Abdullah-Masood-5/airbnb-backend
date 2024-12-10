@@ -2,15 +2,18 @@
 
 const Listing = require("../models/listing");
 
-// Fetch all listings for the client
+// Fetch listings based on category
 exports.getAllListings = async (req, res) => {
+  const { category } = req.query; // Get category from query parameters
   try {
-    const listings = await Listing.find(); // Fetch all listings from DB
+    const query = category && category !== "All" ? { category } : {}; // Filter by category if not "All"
+    const listings = await Listing.find(query); // Fetch filtered or all listings
     res.json(listings); // Send the listings in response
   } catch (error) {
     res.status(500).json({ error: "Server error" });
   }
 };
+
 
 exports.getAllFilteredListings = async (req, res) => {
   try {

@@ -4,8 +4,6 @@ const connectDB = require('./mongoDb/db');
 const authRoutes = require('./routes/auth');
 const path = require('path');
 
-
-
 connectDB();
 
 const app = express();

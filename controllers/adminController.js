@@ -19,8 +19,8 @@ exports.getAllListings = async (req, res) => {
 // Add a new listing
 exports.addListing = async (req, res) => {
   try {
-    const { title, description, price, location } = req.body;
-    const images = req.files.map(file => file.path); // Save paths of uploaded images
+    const { title, category, description, price, location } = req.body;
+    const images = req.files.map((file) => file.path); // Save paths of uploaded images
 
     const newListing = new Listing({
       title,
@@ -28,12 +28,15 @@ exports.addListing = async (req, res) => {
       price,
       location,
       images,
-      hostId: req.user.id
+      category,
+      hostId: req.user.id,
     });
     await newListing.save();
-    res.status(201).json({ message: 'Listing created successfully', listing: newListing });
+    res
+      .status(201)
+      .json({ message: "Listing created successfully", listing: newListing });
   } catch (error) {
-    res.status(500).json({ error: 'Server error' });
+    res.status(500).json({ error: "Server error" });
   }
 };
 

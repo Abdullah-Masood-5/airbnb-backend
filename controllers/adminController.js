@@ -43,14 +43,14 @@ exports.addListing = async (req, res) => {
 // Edit a listing by ID
 exports.updateListing = async (req, res) => {
   try {
-    const { title, description, price, location } = req.body;
-    const images = req.files ? req.files.map(file => file.path) : [];
+    const { title, category, description, price, location } = req.body;
+    const images = req.files ? req.files.map((file) => file.path) : [];
 
     // Find the listing by ID
     const listing = await Listing.findById(req.params.id);
 
     if (!listing) {
-      return res.status(404).json({ error: 'Listing not found' });
+      return res.status(404).json({ error: "Listing not found" });
     }
 
     // Update the listing fields
@@ -58,6 +58,7 @@ exports.updateListing = async (req, res) => {
     listing.description = description || listing.description;
     listing.price = price || listing.price;
     listing.location = location || listing.location;
+    listing.category = category || listing.category;
 
     // If images are provided, update the images array
     if (images.length > 0) {
@@ -67,11 +68,12 @@ exports.updateListing = async (req, res) => {
     // Save the updated listing
     await listing.save();
 
-    res.json({ message: 'Listing updated successfully', listing });
+    res.json({ message: "Listing updated successfully", listing });
   } catch (error) {
-    res.status(500).json({ error: 'Server error' });
+    res.status(500).json({ error: "Server error" });
   }
 };
+
 
 // Delete a listing by ID
 exports.deleteListing = async (req, res) => {

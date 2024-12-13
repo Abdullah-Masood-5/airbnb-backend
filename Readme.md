@@ -58,7 +58,7 @@ The server will start at `http:/localhost:500`.
 - `GET /api/bookings/get`-bookings - Get bookings for the logged-in guest
 
 ##### Admin Bookings
-- GET /api/admin-bookings/bookings - Get bookings for the host's listings
+- `GET /api/admin-bookings/bookings` - Get bookings for the host's listings
 Client
 - `GET /api/listings` - Get all listings
 - `GET /api/listings/search` - Get filtered listings

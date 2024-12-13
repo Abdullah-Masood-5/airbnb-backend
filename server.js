@@ -18,7 +18,6 @@ app.use('/api/profile', profileRoutes);
 
 
 const adminRoutes = require('./routes/admin');
-
 app.use('/api/admin', adminRoutes);
 
 app.use('/api/', require('./routes/clientRoutes'));

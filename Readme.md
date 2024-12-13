@@ -41,7 +41,7 @@ The server will start at `http:/localhost:500`.
 ##### Authentication
 
 - `POST /api/auth/register` - Register a new user
--` POST /api/auth/login` - Login a user
+- ` POST /api/auth/login` - Login a user
 
 ##### Profile
 - `GET /api/profile` - Get user profile

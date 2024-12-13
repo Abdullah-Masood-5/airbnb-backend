@@ -41,7 +41,6 @@ exports.updateListing = async (req, res) => {
     if (!listing) {
       return res.status(404).json({ error: 'Listing not found' });
     }
-
     listing.title = title || listing.title;
     listing.description = description || listing.description;
     listing.price = price || listing.price;

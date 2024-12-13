@@ -1,5 +1,3 @@
-// controllers/clientController.js
-
 const Listing = require("../models/listing");
 
 exports.getAllListings = async (req, res) => {

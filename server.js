@@ -22,10 +22,10 @@ app.use('/api/admin', adminRoutes);
 
 app.use('/api/', require('./routes/clientRoutes'));
 
-app.use('/api/bookings',  require('./routes/bookingRoutes'));
+app.use('/api/bookings', require('./routes/bookingRoutes'));
 
-app.use('/api/admin-bookings',  require('./routes/adminBookingRoutes'));
+app.use('/api/admin-bookings', require('./routes/adminBookingRoutes'));
+console.log(process.env.MONGODB_URI);
 
-
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5000 ;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));

@@ -1,0 +1,257 @@
+"TimeUTC","timestampInMs","requestPath","requestMethod","responseStatusCode","requestId","requestUserAgent","level","environment","branch","vercelCache","type","function","host","deploymentDomain","deploymentId","durationMs","region","maxMemoryUsed","memorySize","message","projectId"
+"2025-01-22 08:46:36",1737535596053,"airbnb-backend-topaz.vercel.app/favicon.ico","GET",-1,"47nb9-1737535595472-99d5f91481df","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-topaz.vercel.app","airbnb-backend-topaz.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:46:35",1737535595579,"airbnb-backend-topaz.vercel.app/favicon.ico","GET",500,"47nb9-1737535595472-99d5f91481df","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-topaz.vercel.app","airbnb-backend-topaz.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",458,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:46:34",1737535594916,"airbnb-backend-topaz.vercel.app/api/listings","GET",-1,"mc7c8-1737535594321-a00ee0e5948b","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-topaz.vercel.app","airbnb-backend-topaz.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:46:34",1737535594424,"airbnb-backend-topaz.vercel.app/api/listings","GET",500,"mc7c8-1737535594321-a00ee0e5948b","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-topaz.vercel.app","airbnb-backend-topaz.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",466,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:45:51",1737535551726,"airbnb-backend-topaz.vercel.app/favicon.ico","GET",-1,"lzswq-1737535551143-aae974d32214","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-topaz.vercel.app","airbnb-backend-topaz.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:45:51",1737535551249,"airbnb-backend-topaz.vercel.app/favicon.ico","GET",500,"lzswq-1737535551143-aae974d32214","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-topaz.vercel.app","airbnb-backend-topaz.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",453,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:45:50",1737535550582,"airbnb-backend-topaz.vercel.app/","GET",-1,"nmqb6-1737535550003-947d58d1edd0","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-topaz.vercel.app","airbnb-backend-topaz.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:45:50",1737535550109,"airbnb-backend-topaz.vercel.app/","GET",500,"nmqb6-1737535550003-947d58d1edd0","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-topaz.vercel.app","airbnb-backend-topaz.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",449,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:40:54",1737535254381,"airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"7pnk4-1737535253802-62ead63381eb","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:40:53",1737535253903,"airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"7pnk4-1737535253802-62ead63381eb","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",459,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:40:48",1737535248822,"airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",-1,"ctckx-1737535248180-a19b5451ed58","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:40:48",1737535248285,"airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",500,"ctckx-1737535248180-a19b5451ed58","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",515,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:40:47",1737535247658,"airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"hx9dl-1737535247059-cc6915af03f8","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:40:47",1737535247166,"airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"hx9dl-1737535247059-cc6915af03f8","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-git-main-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",472,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:40:42",1737535242362,"airbnb-backend-topaz.vercel.app/favicon.ico","GET",-1,"zn49n-1737535241793-7aa90de8a84c","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-topaz.vercel.app","airbnb-backend-topaz.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:40:41",1737535241893,"airbnb-backend-topaz.vercel.app/favicon.ico","GET",500,"zn49n-1737535241793-7aa90de8a84c","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-topaz.vercel.app","airbnb-backend-topaz.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",450,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:40:41",1737535241320,"airbnb-backend-topaz.vercel.app/","GET",-1,"k5m52-1737535240735-04da2b1d2d66","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-topaz.vercel.app","airbnb-backend-topaz.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:40:40",1737535240841,"airbnb-backend-topaz.vercel.app/","GET",500,"k5m52-1737535240735-04da2b1d2d66","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-topaz.vercel.app","airbnb-backend-topaz.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",459,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:40:19",1737535219979,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",-1,"7mftj-1737535219410-cb4227d11f22","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:40:19",1737535219508,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",500,"7mftj-1737535219410-cb4227d11f22","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",456,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:40:19",1737535219141,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"k2v7w-1737535218567-56af3daa4ca9","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:40:18",1737535218664,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"k2v7w-1737535218567-56af3daa4ca9","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",458,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:38:57",1737535137974,"airbnb-backend-topaz.vercel.app/favicon.ico","GET",-1,"gmkf5-1737535137147-602eeafaa7ff","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-topaz.vercel.app","airbnb-backend-topaz.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:38:57",1737535137504,"airbnb-backend-topaz.vercel.app/favicon.ico","GET",500,"gmkf5-1737535137147-602eeafaa7ff","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-topaz.vercel.app","airbnb-backend-topaz.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",455,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:38:56",1737535136724,"airbnb-backend-topaz.vercel.app/","GET",-1,"r86x9-1737535135661-c10db1625819","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-topaz.vercel.app","airbnb-backend-topaz.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:38:56",1737535136251,"airbnb-backend-topaz.vercel.app/","GET",500,"r86x9-1737535135661-c10db1625819","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36","error","production","main","MISS","lambda","/server.js","airbnb-backend-topaz.vercel.app","airbnb-backend-topaz.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",457,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:43",1737535063579,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.png","GET",-1,"6ljck-1737535063076-e6e448b0b2a1","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:43",1737535063112,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.png","GET",500,"6ljck-1737535063076-e6e448b0b2a1","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",449,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:40",1737535060918,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.png","GET",-1,"zlf8q-1737535060411-ddbd33e28731","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:40",1737535060445,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.png","GET",500,"zlf8q-1737535060411-ddbd33e28731","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",457,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:39",1737535059302,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.png","GET",-1,"h8fcd-1737535058774-f2dd56128a36","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:38",1737535058823,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.png","GET",500,"h8fcd-1737535058774-f2dd56128a36","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",458,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:38",1737535058715,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",-1,"8rdj9-1737535058198-ab5e31ae2a1f","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:38",1737535058237,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",500,"8rdj9-1737535058198-ab5e31ae2a1f","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",461,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:36",1737535056075,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",-1,"w27lz-1737535055560-8a395681c443","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:35",1737535055598,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",500,"w27lz-1737535055560-8a395681c443","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",459,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:34",1737535054464,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",-1,"mwd2h-1737535053943-6d10dc007acd","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:33",1737535053995,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",500,"mwd2h-1737535053943-6d10dc007acd","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",448,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:33",1737535053800,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"zxr79-1737535053279-b0145f3b7178","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:33",1737535053316,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"zxr79-1737535053279-b0145f3b7178","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",462,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:33",1737535053201,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",-1,"d6pq9-1737535052687-ffb36add8f71","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:32",1737535052724,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",500,"d6pq9-1737535052687-ffb36add8f71","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",457,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:32",1737535052501,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"flxxh-1737535051973-d622b5a6bd14","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:32",1737535052494,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",-1,"jqttg-1737535051996-318e9a151ad2","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:32",1737535052181,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"jvdrh-1737535051642-e1173a8f8dad","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:32",1737535052044,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",500,"jqttg-1737535051996-318e9a151ad2","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",433,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:32",1737535052021,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"flxxh-1737535051973-d622b5a6bd14","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",460,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:31",1737535051897,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"shz6l-1737535051373-7740d4a05ac4","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:31",1737535051833,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"qzrq8-1737535051341-8b19f9fdf553","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:31",1737535051704,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"jvdrh-1737535051642-e1173a8f8dad","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",461,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:31",1737535051410,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"shz6l-1737535051373-7740d4a05ac4","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",467,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:31",1737535051377,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"qzrq8-1737535051341-8b19f9fdf553","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",437,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:31",1737535051273,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",-1,"bmgbj-1737535050784-95b98e71751f","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:31",1737535051237,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"4vrsq-1737535050658-a20d3880a12d","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:30",1737535050819,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",500,"bmgbj-1737535050784-95b98e71751f","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",436,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:30",1737535050755,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"4vrsq-1737535050658-a20d3880a12d","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",463,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:30",1737535050668,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"6bv5c-1737535048992-cb5c5f641526","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:29",1737535049295,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",-1,"z42hg-1737535048725-4231a8091885","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:29",1737535049278,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"dxrsg-1737535048778-6c1874b5df8e","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:29",1737535049125,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"6bv5c-1737535048992-cb5c5f641526","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",469,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:28",1737535048855,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"ldhpn-1737535048341-f9f9a57975ee","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:28",1737535048848,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/favicon.ico","GET",500,"z42hg-1737535048725-4231a8091885","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",431,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:28",1737535048828,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"dxrsg-1737535048778-6c1874b5df8e","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",435,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:28",1737535048542,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"2hxkh-1737535048052-eae9e88017ec","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:28",1737535048411,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"ldhpn-1737535048341-f9f9a57975ee","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",426,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:28",1737535048357,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"xj4fl-1737535047869-6473f3d07894","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:28",1737535048088,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"2hxkh-1737535048052-eae9e88017ec","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",433,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:27",1737535047906,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"xj4fl-1737535047869-6473f3d07894","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",435,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:27",1737535047755,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"qr5w7-1737535047181-a30d4171f139","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:27",1737535047662,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"f4ml5-1737535047069-e1c6fcca2501","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:27",1737535047310,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"qr5w7-1737535047181-a30d4171f139","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",430,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:27",1737535047211,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"f4ml5-1737535047069-e1c6fcca2501","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",434,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:26",1737535046960,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"bglnn-1737535046365-eea16304d5ce","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:26",1737535046508,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"bglnn-1737535046365-eea16304d5ce","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",438,"iad1",86,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:26",1737535046217,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"kttqq-1737535045604-3217ba0028a8","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:25",1737535045753,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"kttqq-1737535045604-3217ba0028a8","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",440,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:25",1737535045041,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"2jkqz-1737535044455-c06b858395ee","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:24",1737535044586,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"2jkqz-1737535044455-c06b858395ee","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",438,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:24",1737535044521,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"djz8b-1737535042912-23741bb7ebeb","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.
+Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:23",1737535043369,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",-1,"m4ct6-1737535042704-7cbd9980ea72","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",-1,"iad1",-1,-1,"Cannot find module './mongoDb/db'
+Require stack:
+- /var/task/server.js
+Did you forget to add it to ""dependencies"" in `package.json`?
+Node.js process exited with exit status: 1. The logs above can help with debugging the issue.","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:23",1737535043177,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"djz8b-1737535042912-23741bb7ebeb","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",456,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"
+"2025-01-22 08:37:22",1737535042930,"airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app/","GET",500,"m4ct6-1737535042704-7cbd9980ea72","vercel-screenshot/1.0","error","production","main","MISS","lambda","/server.js","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","airbnb-backend-k3inpjxv1-abdullah-masoods-projects-f589f895.vercel.app","dpl_7DEnM6Ujg3GW3VgMmYLwWYQvohPa",424,"iad1",87,1024,"","prj_BWk5theEZylBmwWRBVrSUrs6IRdq"

@@ -96,4 +96,4 @@ server.js
 ```
 ##### Environment Variables
 - `MONGODB_URI` - MongoDB conenction string
-- `JWT_SECRET` - Secret ket for JWT
+- `JWT_SECRET` - Secret key for JWT
